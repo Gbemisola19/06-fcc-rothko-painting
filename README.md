@@ -1,16 +1,20 @@
-# Project Name
+# FCC ROTHKO PAINTING
+This is a project that gives information about basic CSS elements
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
+![rothko paintinng](app_screenshot.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Html5 elements
+ - `div`
+- CSS
+ - `border`, `margin`, `filter`, `box-shadow` 
+ - `border-radius`, `padding`, `weight`
+- Linters
+ - [Prettier](https://prettier.io/)
+ - [Stylelint](https://stylelint.io/)
 
 ## Live Demo
 
@@ -21,7 +25,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/Gbemisola19/06-fcc-rothko-painting.git
 
 ```
 
@@ -77,9 +81,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.com/Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 

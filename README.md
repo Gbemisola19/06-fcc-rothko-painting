@@ -10,7 +10,7 @@ Additional description of the project and its features.
 - Html5 elements
   - `div`
 - CSS
-  - `border`, `margin`, `filter`, `box-shadow` 
+  - `border`, `margin`, `filter`, `box-shadow`
   - `border-radius`, `padding`, `weight`
 - Linters
   - [Prettier](https://prettier.io/)

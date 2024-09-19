@@ -1,5 +1,5 @@
-# FCC ROTHKO PAINTING
-This is a project that gives information about basic CSS elements
+# FCC Rothko Painting
+This is a project that gives information about some basic CSS elements
 
 ![rothko paintinng](app_screenshot.png)
 

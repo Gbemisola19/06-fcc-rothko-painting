@@ -1,7 +1,8 @@
 # FCC Rothko Painting
+
 This is a project that gives information about some basic CSS elements
 
-![rothko paintinng](app_screenshot.png)
+![rothko painting](app_screenshot.png)
 
 Additional description of the project and its features.
 

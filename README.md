@@ -2,20 +2,24 @@
 
 This is a project that gives information about basic CSS elements
 
-![rothko paintinng](app_screenshot.png)
+# FCC Rothko Painting
+
+This is a project that gives information about some basic CSS elements
+
+![rothko painting](app_screenshot.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
 - Html5 elements
-- `div`
+  - `div`
 - CSS
-- `border`, `margin`, `filter`, `box-shadow`
-- `border-radius`, `padding`, `weight`
+  - `border`, `margin`, `filter`, `box-shadow`
+  - `border-radius`, `padding`, `weight`
 - Linters
-- [Prettier](https://prettier.io/)
-- [Stylelint](https://stylelint.io/)
+  - [Prettier](https://prettier.io/)
+  - [Stylelint](https://stylelint.io/)
 
 ## Live Demo
 
